@@ -31,4 +31,4 @@ public class InheritanceExercise {
         System.out.println(ep);
         ep.speak();
     }
-}
+} 
